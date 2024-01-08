@@ -1,0 +1,1 @@
+SELECT * FROM tb_colaboladores WHERE salario < 2000.00;
